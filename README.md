@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Oksana
 
-<!--
-**Oksana-Zalivan/Oksana-Zalivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+Frontend Developer in training with a strong focus on building real projects using modern web technologies.  
+I enjoy learning step by step, improving code quality, and turning ideas into working interfaces.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML, CSS
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Vite
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Frontend projects with React and TypeScript
+- API-based applications
+- Improving component architecture and state management
+
+## 📂 Featured Projects
+- **CoffeeJoy** — team HTML/CSS project  
+- **Feedback Widget (React + TS)**  
+- **Movie Search App (TMDB API)**  
+
+## 📫 Contact Me
+- GitHub: https://github.com/Oksana-Zalivan
+- Email: oksanazalivan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/oksana-zalivan/
+
